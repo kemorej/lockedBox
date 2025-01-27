@@ -1,6 +1,8 @@
 # lockedBox
 unlock a box by RFID, managed by an Arduino Nano
 
+Update the variable "cardID" with your tagID
+
 ![IMG_20250127_115351732_r](https://github.com/user-attachments/assets/c1777ee5-21e0-4f48-ac95-116298123e76)
 
 
